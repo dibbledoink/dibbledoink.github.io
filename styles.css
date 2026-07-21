@@ -11,6 +11,10 @@ body {
     margin: 0 auto;
     padding: 20px;
     background-color: #000000;
+
+    a {
+  color: #FFFFFF; /* Changes link color to orange */
+}
 }
 
 /* 2. HEADINGS (FONT STYLE) */
