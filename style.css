@@ -1,0 +1,53 @@
+/* 1. GLOBAL PAGE LAYOUT STYLES */
+body {
+    /* Sets the default typography across the entire page */
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333333;
+    
+    /* Center aligns the main page box */
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+/* 2. HEADINGS (FONT STYLE) */
+h1, h2, h3 {
+    font-family: 'Georgia', serif;
+    font-weight: 700;
+    color: #111111;
+    margin-top: 24px;
+    margin-bottom: 12px;
+}
+
+h1 {
+    font-size: 2.5rem; /* 40px scale */
+    border-bottom: 2px solid #eeeeee;
+    padding-bottom: 8px;
+}
+
+h2 {
+    font-size: 2rem; /* 32px scale */
+}
+
+/* 3. PARAGRAPHS & TEXT BLOCKS */
+p {
+    margin-bottom: 16px;
+    text-align: justify;
+}
+
+/* 4. UTILITY TEXT MODIFIERS */
+.text-italic {
+    font-style: italic;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-muted {
+    color: #666666;
+    font-size: 0.9rem;
+}
