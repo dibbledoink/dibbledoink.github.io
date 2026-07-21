@@ -17,14 +17,14 @@ body {
 h1, h2, h3 {
     font-family: 'Georgia', serif;
     font-weight: 700;
-    color: #111111;
+    color: #FFFFFF;
     margin-top: 24px;
     margin-bottom: 12px;
 }
 
 h1 {
     font-size: 2.5rem; /* 40px scale */
-    border-bottom: 2px solid #eeeeee;
+    border-bottom: 2px solid #FFFFFF;
     padding-bottom: 8px;
 }
 
@@ -48,6 +48,6 @@ p {
 }
 
 .text-muted {
-    color: #666666;
+    color: #FFFFFF;
     font-size: 0.9rem;
 }
